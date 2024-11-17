@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-cutoff_frequency = 20
-image_filename = "100x100.jpg"
+cutoff_frequency = 13
+image_filename = "100x100-noise.jpg"
 
 
 def calculate_2dft(input):
